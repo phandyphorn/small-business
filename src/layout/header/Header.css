@@ -1,0 +1,28 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: rgb(169, 206, 194);
+}
+
+.header-nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  padding: 24px 0;
+  background-color: white;
+}
+
+.each-nav {
+  margin-right: 24px;
+}
+
+.nav-link {
+  text-decoration: none;
+}
+
+.main-layout {
+  padding: 0 48px 0 48px;
+}
